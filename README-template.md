@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learnt that how media queries work and I'm happy :)
+I learnt how media queries work and I'm happy :)
 
 
 ### Continued development
